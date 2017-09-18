@@ -37,7 +37,7 @@ $dictionary['key_student']['fields']['key_status'] = array(
     );
 $dictionary['key_student']['relationships']['key_student_key_status'] = array(
     'lhs_module'        => 'key_student',
-    'lhs_table'         => 'test_flexparent',
+    'lhs_table'         => 'key_student',
     'lhs_key'           => 'subscriber_id',
     'rhs_module'        => 'key_status',
     'rhs_table'         => 'key_status',

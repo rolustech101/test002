@@ -40,3 +40,4 @@ $dictionary["key_course"]["fields"]["key_teacher_key_coursekey_teacher_ida"] = a
   'duplicate_merge' => 'disabled',
   'hideacl' => true,
 );
+
